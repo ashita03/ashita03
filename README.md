@@ -10,6 +10,7 @@ My previous job involved a lot of analysis with the aim to highlight critical as
 - Working on improving my knowledge on data analytics, and product analytics
 - Learning more BI tools
 - Sometimes, even a bit of Product Management for fun
+  
 
 > **To learn more about me, or to connect with me -**  
 > 🖇️ https://www.linkedin.com/in/ashita-shetty-a39976192/
