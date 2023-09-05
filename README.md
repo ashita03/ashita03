@@ -2,6 +2,8 @@
 
 📊 I am a **_data scientist_**, who performs analysis and uses machine learning models to suit the business requirement. Along with carrying out data analysis, I love a tint of management in order to be able to scale my analysis to the changes required.
 
+#### 📚 I am currently studying Masters of Information Technology & Analytics at Rutgers Business School - Newark, and will be graduating in December 2024
+
 ### ⚒️ Work Experience
 My previous job involved a lot of analysis with the aim to highlight critical aspects of the product and its performance. Furthermore, I worked towards using the insights to recommend better approaches to a problem. Additionally, I also managed a few product development aspects from ideation phase to execution with the help of my team members.
 
