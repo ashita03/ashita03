@@ -6,6 +6,7 @@
 
 ### ⚒️ Work Experience
 My previous job involved a lot of analysis with the aim to highlight critical aspects of the product and its performance. Furthermore, I worked towards using the insights to recommend better approaches to a problem. Additionally, I also managed a few product development aspects from ideation phase to execution with the help of my team members.
+I've worked on various Computer Vision projects during the tenure of my internships, that expanded on my model development and deployment knowledge.
 
 ### 🔖 Currently learning
 - Learning more about model deployment and best practises
