@@ -1,21 +1,19 @@
-## 👋 Hi, I am Ashita!
+## 👋 Hi, I'm Ashita!
 
-📊 I am a **_data scientist_**, who performs analysis and uses machine learning models to suit the business requirement. Along with carrying out data analysis, I love a tint of management in order to be able to scale my analysis to the changes required.
+📊 I'm a **data scientist** with a passion for leveraging machine learning models to address business needs. In addition to my data analysis expertise, I enjoy incorporating management strategies to effectively scale my analyses to meet evolving requirements.
 
-#### 📚 I am currently studying Masters of Information Technology & Analytics at Rutgers Business School - Newark, and will be graduating in December 2024
+#### 📚 Currently pursuing a Master's in Information Technology & Analytics at Rutgers Business School - Newark, expecting to graduate in December 2024.
 
-### ⚒️ Work Experience
-My previous job involved a lot of analysis with the aim to highlight critical aspects of the product and its performance. Furthermore, I worked towards using the insights to recommend better approaches to a problem. Additionally, I also managed a few product development aspects from ideation phase to execution with the help of my team members.
-I've worked on various Computer Vision projects during the tenure of my internships, that expanded on my model development and deployment knowledge.
+###⚒️ Work Experience
+In my previous role, I conducted in-depth analyses to uncover key product insights and enhance overall performance. I focused on recommending innovative approaches to problem-solving and actively contributed to product development from ideation to execution, collaborating with cross-functional teams. My internships involved hands-on experience in Computer Vision projects, enhancing my proficiency in model development and deployment.
 
-### 🔖 Currently learning
-- Learning more about model deployment and best practises
-- Working on improving my knowledge on data analytics, and product analytics
-- Learning more BI tools
-- Sometimes, even a bit of Product Management for fun
-  
+###🔖 Currently Learning
+- Deepening knowledge of model deployment and best practices
+- Enhancing skills in data analytics and product analytics
+- Exploring BI tools for comprehensive data visualization
+- Delving into aspects of Product Management for a well-rounded skill set
 
-> **To learn more about me, or to connect with me -**  
-> 🖇️ https://www.linkedin.com/in/ashita-shetty-a39976192/
+> **Connect with me or learn more about my journey:**
+>🖇️ [LinkedIn](https://www.linkedin.com/in/ashita-shetty-a39976192/)
 
 
