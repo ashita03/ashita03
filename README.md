@@ -4,10 +4,10 @@
 
 #### 📚 Currently pursuing a Master's in Information Technology & Analytics at Rutgers Business School - Newark, expecting to graduate in December 2024.
 
-###⚒️ Work Experience
+### ⚒️ Work Experience
 In my previous role, I conducted in-depth analyses to uncover key product insights and enhance overall performance. I focused on recommending innovative approaches to problem-solving and actively contributed to product development from ideation to execution, collaborating with cross-functional teams. My internships involved hands-on experience in Computer Vision projects, enhancing my proficiency in model development and deployment.
 
-###🔖 Currently Learning
+### 🔖 Currently Learning
 - Deepening knowledge of model deployment and best practices
 - Enhancing skills in data analytics and product analytics
 - Exploring BI tools for comprehensive data visualization
