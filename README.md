@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Ashita!
 
-📊 I'm a **data scientist** with a passion for leveraging machine learning models to address business needs. In addition to my data analysis expertise, I enjoy incorporating management strategies to effectively scale my analyses to meet evolving requirements.
+📊 I'm a **data scientist** with a passion for leveraging machine learning models and conducting analysis to address business needs. In addition to my data analysis expertise, I enjoy incorporating management strategies to effectively scale my analyses to meet evolving requirements.
 
 #### 📚 Currently pursuing a Master's in Information Technology & Analytics at Rutgers Business School - Newark, expecting to graduate in December 2024.
 
