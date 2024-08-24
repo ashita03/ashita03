@@ -38,5 +38,6 @@ My internships involved hands-on experience in Computer Vision projects, increas
 
 > **Connect with me or learn more about my journey:**
 >🖇️ [LinkedIn](https://www.linkedin.com/in/ashita-shetty-a39976192/)
+>🖇️ [Portfolio](https://ashita03.github.io/)
 
 
