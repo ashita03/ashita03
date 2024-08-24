@@ -36,8 +36,10 @@ My internships involved hands-on experience in Computer Vision projects, increas
 - Exploring BI tools for comprehensive data visualization
 - Delving into aspects of Product Management for a well-rounded skill set
 
-> **Connect with me or learn more about my journey:**
+#### **Connect with me or learn more about my journey:**
+
 >🖇️ [LinkedIn](https://www.linkedin.com/in/ashita-shetty-a39976192/)
+
 >🖇️ [Portfolio](https://ashita03.github.io/)
 
 
