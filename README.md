@@ -2,8 +2,8 @@
 
 📊 I'm a **Data Scientist** with a passion for leveraging machine learning models and conducting analysis to address business needs. In addition to my data analysis expertise, I enjoy incorporating management strategies to effectively scale my analyses to meet evolving requirements.
 
-#### 📚 Currently pursuing a Master's in Information Technology & Analytics at Rutgers Business School - Newark, expecting to graduate in December 2024.
-#### 💻 Working as a Business Analyst Intern at Merck, I provide teams with the solutions to analytical requirements and support product and business development strategies with my problem-solving capabilities
+#### 📚 Graduated in December 2024 with a Master's in Information Technology & Analytics Degree from Rutgers Business School - Newark
+#### 💻 Working as a Data Analyst at Merck, I provide teams with the solutions to analytical requirements and support product and business development strategies with my problem-solving capabilities
 
 ### 👩‍💻 Work Experience
 In my previous role, I conducted in-depth analyses to uncover key product insights and enhance overall performance. I focused on recommending innovative approaches to problem-solving and actively contributed to product development from ideation to execution, collaborating with cross-functional teams. 
