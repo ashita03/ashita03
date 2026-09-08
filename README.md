@@ -6,14 +6,16 @@
 #### 💻 Working as a Data Analyst at Merck, I provide teams with the solutions to analytical requirements and support product and business development strategies with my problem-solving capabilities
 
 ### 👩‍💻 Work Experience
-* Bring a solution-oriented, analytical mindset to solving complex Operations business problems, developing scalable solutions across Finance, Workforce, Vendor Management, Demand Planning, and other operational pillars.
-* Contribute to building an enterprise Operations product that centralizes dashboards, analytics, and agentic AI solutions to improve accessibility, decision-making, and operational efficiency.
-* Translate business processes, stakeholder requirements, and operational challenges into actionable analytical solutions, including data products, dashboards, and agentic workflows.
-Bridge the gap between business needs and technical implementation, helping teams leverage data, analytics, and AI to build scalable solutions.
-  
-* In previous roles, I drove data-driven product development by conducting in-depth analyses to uncover product insights, identify performance opportunities, and recommend innovative solutions; partnered with cross-functional teams to take initiatives from ideation through execution.
-  
-* My internships involved hands-on experience in Computer Vision projects, increasing proficiency in model development and deployment. 
+#### Current Role — Merck | Solutions Architect / Data Analyst
+* In my current role at Merck, I bring an analytical and solution-oriented mindset to solving complex Operations business problems. I work across areas including Finance, Workforce, Vendor Management, and Demand, helping develop scalable data and technology solutions.
+* I work on building an Operations product that brings together dashboards, analytics, and agentic AI solutions, making insights and analytical capabilities more accessible across different operational teams.
+* As a Solutions Architect, I work closely with stakeholders to understand business processes, requirements, and pain points, and translate them into analytical solutions, dashboards, data products, or agentic workflows.
+* I also perform ad-hoc analyses, develop Power BI dashboards, and write Python scripts to automate data cleaning and repetitive processes, with a focus on improving efficiency and enabling data-driven decision-making.
+#### Previous Role — Data Scientist | Gramhal
+* In my previous role at Gramhal, I worked extensively on analyzing data to uncover product insights, user behavior patterns, and performance opportunities, using these findings to support product and business decisions.
+* I contributed to product development from ideation through execution, working closely with cross-functional teams to translate problems into data-driven and technology-enabled solutions.
+* Working in a small and dynamic team allowed me to take on multiple responsibilities, from data analysis and experimentation to dashboard development, product feature development, and reporting.
+* This experience helped me develop a strong interest in the intersection of Data, Product, and Business, while strengthening my ability to approach ambiguous problems and turn them into actionable solutions.
 
 ### ⚒️ Skills & Tools
 
