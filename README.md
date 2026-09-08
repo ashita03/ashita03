@@ -11,7 +11,7 @@
 * Translate business processes, stakeholder requirements, and operational challenges into actionable analytical solutions, including data products, dashboards, and agentic workflows.
 Bridge the gap between business needs and technical implementation, helping teams leverage data, analytics, and AI to build scalable solutions.
   
-* In my previous role, I conducted in-depth analyses to uncover key product insights and enhance overall performance. I focused on recommending innovative approaches to problem-solving and actively contributed to product development from ideation to execution, collaborating with cross-functional teams.
+* In previous roles, I drove data-driven product development by conducting in-depth analyses to uncover product insights, identify performance opportunities, and recommend innovative solutions; partnered with cross-functional teams to take initiatives from ideation through execution.
   
 * My internships involved hands-on experience in Computer Vision projects, increasing proficiency in model development and deployment. 
 
