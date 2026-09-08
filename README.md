@@ -6,7 +6,10 @@
 #### 💻 Working as a Data Analyst at Merck, I provide teams with the solutions to analytical requirements and support product and business development strategies with my problem-solving capabilities
 
 ### 👩‍💻 Work Experience
-* In my current role at Merck, I support the Solution Management Team by applying core analytical skills to develop data-driven solutions for business challenges. My primary focus has been on vendor management, where I design analytical frameworks, build dashboards, and conduct in-depth analyses to uncover cost-saving opportunities and strengthen governance practices.
+* Bring a solution-oriented, analytical mindset to solving complex Operations business problems, developing scalable solutions across Finance, Workforce, Vendor Management, Demand Planning, and other operational pillars.
+* Contribute to building an enterprise Operations product that centralizes dashboards, analytics, and agentic AI solutions to improve accessibility, decision-making, and operational efficiency.
+* Translate business processes, stakeholder requirements, and operational challenges into actionable analytical solutions, including data products, dashboards, and agentic workflows.
+Bridge the gap between business needs and technical implementation, helping teams leverage data, analytics, and AI to build scalable solutions.
   
 * In my previous role, I conducted in-depth analyses to uncover key product insights and enhance overall performance. I focused on recommending innovative approaches to problem-solving and actively contributed to product development from ideation to execution, collaborating with cross-functional teams.
   
