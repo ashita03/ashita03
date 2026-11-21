@@ -6,10 +6,10 @@
 #### 💻 Working as a Data Analyst at Merck, I provide teams with the solutions to analytical requirements and support product and business development strategies with my problem-solving capabilities
 
 ### 👩‍💻 Work Experience
-#### Current Role — Merck | Solutions Architect / Data Analyst
+#### Current Role — Merck | Product Manager, AI - Operations
 * In my current role at Merck, I bring an analytical and solution-oriented mindset to solving complex Operations business problems. I work across areas including Finance, Workforce, Vendor Management, and Demand, helping develop scalable data and technology solutions.
 * I work on building an Operations product that brings together dashboards, analytics, and agentic AI solutions, making insights and analytical capabilities more accessible across different operational teams.
-* As a Solutions Architect, I work closely with stakeholders to understand business processes, requirements, and pain points, and translate them into analytical solutions, dashboards, data products, or agentic workflows.
+* As a Product Manager, I work closely with stakeholders to understand business processes, requirements, and pain points, and translate them into analytical solutions, dashboards, data products, or agentic workflows.
 * I also perform ad-hoc analyses, develop Power BI dashboards, and write Python scripts to automate data cleaning and repetitive processes, with a focus on improving efficiency and enabling data-driven decision-making.
 #### Previous Role — Data Scientist | Gramhal
 * In my previous role at Gramhal, I worked extensively on analyzing data to uncover product insights, user behavior patterns, and performance opportunities, using these findings to support product and business decisions.
